@@ -56,9 +56,9 @@
 ## GitHub Stats
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats-nine-ashen-95.vercel.app/api?username=ThiagoFrts&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats-nine-ashen-95.vercel.app/api?username=ThiagoFrts&show_icons=true&count_private=true&title_color=FFFFFF&text_color=E0E0E0&icon_color=3B82F6&bg_color=16213E&border_color=1A2744" />
   &nbsp;&nbsp;
-  <img height="170" src="https://github-readme-stats-nine-ashen-95.vercel.app/api/top-langs/?username=ThiagoFrts&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats-nine-ashen-95.vercel.app/api/top-langs/?username=ThiagoFrts&layout=compact&title_color=FFFFFF&text_color=E0E0E0&icon_color=3B82F6&bg_color=16213E&border_color=1A2744" />
 </p>
 <br>
 
