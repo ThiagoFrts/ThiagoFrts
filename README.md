@@ -43,7 +43,7 @@
 
 <br>
 
-## 🎯 Objetivo
+## Objetivo
 
 - Primeira oportunidade na área de desenvolvimento web (estágio ou júnior).
 - Reforçando lógica de programação e boas práticas todos os dias.
@@ -51,7 +51,7 @@
 
 <br>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="left">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=ThiagoFrts&show_icons=true&theme=tokyonight&count_private=true" />
