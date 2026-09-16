@@ -56,7 +56,7 @@
 ## GitHub Stats
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoFrts&layout=compact&theme=tokyonight&cache_bust=1" />
+  
   <img height="170" src="https://github-readme-stats-nine-ashen-95.vercel.app/api/top-langs/?username=ThiagoFrts&layout=compact&title_color=FFFFFF&text_color=E0E0E0&icon_color=3B82F6&bg_color=0D1526&border_color=3B82F6" />
 </p>
 <br>
