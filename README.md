@@ -53,8 +53,6 @@
 
 <br>
 
-## GitHub Stats
-
 <p align="left">
   
   ## GitHub Stats
