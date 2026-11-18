@@ -58,9 +58,9 @@
   ## GitHub Stats
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats-nine-ashen-95.vercel.app/?username=ThiagoFrts&show_icons=true&count_private=true&title_color=FFFFFF&text_color=E0E0E0&icon_color=3B82F6&bg_color=0D1526&border_color=3B82F6" />
+  <img height="200" src="https://github-readme-stats-nine-ashen-95.vercel.app/api?username=ThiagoFrts&show_icons=true&count_private=true&title_color=FFFFFF&text_color=E0E0E0&icon_color=3B82F6&bg_color=0D1526&border_color=3B82F6" />
   &nbsp;&nbsp;
-  <img height="200" src="https://github-readme-stats-nine-ashen-95.vercel.app/api/top-langs/?username=ThiagoFrts&layout=compact&title_color=FFFFFF&text_color=E0E0E0&icon_color=3B82F6&bg_color=0D1526&border_color=3B82F6&hide=Portugol,hack&langs_count=8" />
+  <img height="200" src="https://github-readme-stats-nine-ashen-95.vercel.app/api/top-langs/?username=ThiagoFrts&layout=compact&title_color=FFFFFF&text_color=E0E0E0&icon_color=3B82F6&bg_color=0D1526&border_color=3B82F6&hide=Portugol,hack&langs_count=8&card_width=450&size_weight=0.5&count_weight=0.5&cache_bust=20261117" />
 </p>
 
 <br>
